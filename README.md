@@ -1,5 +1,6 @@
 # Costa-Rican-Household-Poverty-Level-Prediction
 Kaggle Competition : Costa Rican Household Poverty Level Prediction  
+https://www.kaggle.com/c/costa-rican-household-poverty-prediction
   
 ### [Libraries Used]
   - Data EDA : matplotlib.pyplot, seaborn  
